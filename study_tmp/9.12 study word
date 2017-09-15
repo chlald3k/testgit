@@ -1,0 +1,19 @@
+/* rem */
+
+/* a */
+a:visited
+a:link
+a:hover,a:focus
+
+/*flex*/
+display:flex
+
+/*가상선택자::before ::after*/
+
+/*box-sizing:border-box*/
+
+/*webfont font-face*/
+
+/*reset.css*/
+
+/*position 비교*/

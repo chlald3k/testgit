@@ -1,0 +1,13 @@
+<nav class="navigation"></nav>
+<nav> -> <div>
+*aria-lable="메인메뉴" or *role="navigation"
+
+숨김처리
+-접근성
+
+border-radius: 0 0 50px 50px / 0 0 15px 15px
+-liner-gradient: progid 비표준
+-> 성능저하
+-> 그라데이션지원하지않을때단색처리
+
+디자인상변화를인지할수있을때outline제거가능
